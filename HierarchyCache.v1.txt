@@ -1,0 +1,227 @@
+﻿++Solution 'MyFirstAzureWebApp' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:MyFirstAzureWebApp.sln
+++MyFirstAzureWebApp
+i:{00000000-0000-0000-0000-000000000000}:MyFirstAzureWebApp
+++Connected Services 
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:>191
+++No service dependencies discovered
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:>192
+++Dependencies
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:>190
+++Analyzers
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:analyzers
+++Frameworks
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:frameworks
+++Properties
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\properties\
+++launchSettings.json
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\properties\launchsettings.json
+++wwwroot
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\
+++css
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\css\
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\js\
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\
+++favicon.ico
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\favicon.ico
+++Pages
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\pages\
+++Shared
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\pages\shared\
+++_ViewImports.cshtml
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\pages\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\pages\_viewstart.cshtml
+++Error.cshtml
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\pages\error.cshtml
+++Index.cshtml
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\pages\index.cshtml
+++Privacy.cshtml
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\pages\privacy.cshtml
+++appsettings.json
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\appsettings.json
+++appsettings.Development.json
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\appsettings.development.json
+++Program.cs
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\program.cs
+++Microsoft.AspNetCore.Analyzers
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\microsoft.netcore.app
+++site.css
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\css\site.css
+++site.js
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\js\site.js
+++bootstrap
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\
+++jquery
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\jquery\
+++jquery-validation
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\jquery-validation-unobtrusive\
+++_Layout.cshtml
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\pages\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\pages\shared\_validationscriptspartial.cshtml
+++Error.cshtml.cs
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\pages\error.cshtml.cs
+++Index.cshtml.cs
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\pages\index.cshtml.cs
+++Privacy.cshtml.cs
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\pages\privacy.cshtml.cs
+++dist
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\jquery\dist\
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\jquery\license.txt
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++_Layout.cshtml.css
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\pages\shared\_layout.cshtml.css
+++jquery.js
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++PublishProfiles
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\properties\publishprofiles\
+++MyFirstAzureWebApp20211123185720 - Web Deploy.pubxml
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\properties\publishprofiles\myfirstazurewebapp20211123185720 - web deploy.pubxml
+++ServiceDependencies
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\properties\servicedependencies\
+++MyFirstAzureWebApp20211123185720 - Web Deploy
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\properties\servicedependencies\myfirstazurewebapp20211123185720 - web deploy\
+++profile.arm.json
+i:{e485435d-0c73-4289-ab05-3013de12ad4f}:c:\users\loven\onedrive\documents\wsu\side projects\thanksgiving break 2021\myfirstazurewebapp\myfirstazurewebapp\properties\servicedependencies\myfirstazurewebapp20211123185720 - web deploy\profile.arm.json
